@@ -1,4 +1,3 @@
-runtime: shiny
 ---
 title: "Exercise Set 1"
 author: "T. Evgeniou"
@@ -86,7 +85,7 @@ pnl_plot(SPY)
 
 **Your Answers here:**
 <br>
-1. Line 8: mytickers = c("SPY", "AAPL")
+1. dataSet1.R - Line 8: mytickers = c("SPY", "AAPL")
 <br>
 2. Cumulative returns: round(100*sum(StockReturns[,2]),1) = 380.7%
 <br>
@@ -157,7 +156,7 @@ This is an important step and will get you to think about the overall process on
 
 **Your Answers here:**
 <br>
-1. line 9: startDate = "2001-01-01"
+1. dataSet1.R - line 9: startDate = "2001-01-01"
 <br>
 <br>
 <br>
